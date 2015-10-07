@@ -6,7 +6,7 @@ If you have existing code that you can share with us and are proud of, these exe
 
 If you are doing an exercise, you can pick any of the ones below. You should plan on spending 30–120 minutes on the exercise.
 
-### Front-end
+### Client (Front-end)
 
 #### Search
 
@@ -18,13 +18,30 @@ At a minimum, the user should be able to:
 - view results in a list
 - click on a result to view more details about the car
 
-We’ll be looking for clean, well-structured code and a polished user interface.
-
-The choice of technologies (Angular, React, LESS, etc.) are up to you, but all projects should have a single `index.html` that loads scripts and stylesheets. Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
+We’ll be looking for clean, well-structured code and a polished user interface, regardless of the platform you choose to build on. Specific platform instructions are below.
 
 [hotwire]: http://developer.hotwire.com/docs/Rental_Car_Shopping_API
 
-### Back-end
+##### Android
+
+Use Java with standard Android XML layouts. You can use any libraries and tools you like. Volley and Glide are not required but recommended. 
+
+Send us the APK file so we can install on Android 4 or 5 and a link to your code repo. We want to see the details.
+
+##### iOS
+
+Use Objective-C, Swift, or a combination of those. You may use additional libraries and tools, but be prepared to explain why. We are looking for a user experience consistent with Apple’s guidelines.  
+
+Send us a link to the repo so we can build and run your code.
+
+##### Web
+
+The choice of technologies (Angular, React, LESS, etc.) are up to you, but all projects should have a single `index.html` that loads scripts and stylesheets. Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
+
+Please do not hesitate to share any mobile portfolio apps that make you proud along with an app that meets the challenge. Make it fast with a fast network! 
+
+
+### Server (Back-end)
 
 #### Simple Database
 
