@@ -21,10 +21,17 @@ At a minimum, the user should be able to:
 We’ll be looking for clean, well-structured code and a polished user interface.
 
 [hotwire]: http://developer.hotwire.com/docs/Rental_Car_Shopping_API
+Please do not hesitate to share any mobile portfolio apps that make you proud along with an app that meets the challenge. Make it fast with a fast network! 
 
 ##### Android
 
-###### iOS
+The requirements are listed above. The programming language should be java with standard Android xml layouts. Send us an apk that runs on Android 4 and 5 along with a link to your repository. You can use any libraries and tools you like. Volley and Glide libraries are not required but recommended. 
+Send us an apk file we can install on Android 4 or 5 and a link to your code repo.
+
+##### iOS
+
+The requirements are the same as Search(listed above) and done with Swift, Objective-C or any combination of those. You can use the libraries and tools you like. We are looking for a user experience consistent with Apple's guidelines.  
+Send us a link to the repo so we can build and run your code.
 
 ##### Web
 
