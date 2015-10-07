@@ -25,8 +25,8 @@ Please do not hesitate to share any mobile portfolio apps that make you proud al
 
 ##### Android
 
-The requirements are listed above. The programming language should be java with standard Android xml layouts. Send us an apk that runs on Android 4 and 5 along with a link to your repository. You can use any libraries and tools you like. Volley and Glide libraries are not required but recommended. 
-Send us an apk file we can install on Android 4 or 5 and a link to your code repo.
+The requirements are listed above. The programming language should be Java with standard Android xml layouts. You can use any libraries and tools you like. Volley and Glide libraries are not required but recommended. 
+Send us the apk file so we can install on Android 4 or 5 and a link to your code repo. We want to see the details.
 
 ##### iOS
 
