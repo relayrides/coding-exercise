@@ -4,7 +4,7 @@ If you have existing code that you can share with us and are proud of, these exe
 
 ## RelayRides Code Exercises
 
-If you are doing an exercise, you can pick any of the ones below.
+If you are doing an exercise, you can pick any of the ones below. You should plan on spending 30–120 minutes on the exercise.
 
 ### Front-end
 
