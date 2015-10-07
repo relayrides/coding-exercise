@@ -6,7 +6,7 @@ If you have existing code that you can share with us and are proud of, these exe
 
 If you are doing an exercise, you can pick any of the ones below.
 
-### Front-end
+### Client (Front-end)
 
 #### Search
 
@@ -20,11 +20,17 @@ At a minimum, the user should be able to:
 
 We’ll be looking for clean, well-structured code and a polished user interface.
 
-The choice of technologies (Angular, React, LESS, etc.) are up to you, but all projects should have a single `index.html` that loads scripts and stylesheets. Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
-
 [hotwire]: http://developer.hotwire.com/docs/Rental_Car_Shopping_API
 
-### Back-end
+##### Android
+
+###### iOS
+
+##### Web
+
+The choice of technologies (Angular, React, LESS, etc.) are up to you, but all projects should have a single `index.html` that loads scripts and stylesheets. Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
+
+### Server (Back-end)
 
 #### Simple Database
 
