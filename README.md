@@ -30,7 +30,9 @@ Send us a link to the repo so we can build and run your code.
 
 ##### Web
 
-The project should be a single page app with a single `index.html` that loads any scripts and stylesheets. The choice of technologies (Angular, React, LESS, etc.) are up to you, but please include a README that explains your approach and why specific technologies were used. Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
+The project should be a single page app with a single `index.html` that loads any scripts and stylesheets. The choice of technologies (Angular, React, LESS, etc.) are up to you, but please include a README that explains your approach and why specific technologies were used. 
+
+When you’re done, send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
 
 
 ### Server (Back-end)
