@@ -10,13 +10,7 @@ If you are doing an exercise, you can pick any of the ones below. You should pla
 
 #### Search
 
-Build a single-page rental car search app using [Hotwire’s Shopping API][hotwire]. It requires registering for an API key, but it should only take 60 seconds to register your test application.
-
-At a minimum, the user should be able to:
-
-- search by date and location
-- view results in a list
-- click on a result to view more details about the car
+Build a rental car search app using a freely available public API (we like [Hotwire’s Shopping API][hotwire]). The user should be able to search by date and location.
 
 We’ll be looking for clean, well-structured code and a polished user interface, regardless of the platform you choose to build on. Specific platform instructions are below.
 
@@ -36,9 +30,9 @@ Send us a link to the repo so we can build and run your code.
 
 ##### Web
 
-The choice of technologies (Angular, React, LESS, etc.) are up to you, but all projects should have a single `index.html` that loads scripts and stylesheets. Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
+The project should be a single page app with a single `index.html` that loads any scripts and stylesheets. The choice of technologies (Angular, React, LESS, etc.) are up to you, but please include a README that explains your approach and why specific technologies were used. 
 
-Please do not hesitate to share any mobile portfolio apps that make you proud along with an app that meets the challenge. Make it fast with a fast network! 
+Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
 
 
 ### Server (Back-end)
