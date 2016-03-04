@@ -6,6 +6,23 @@ If you have existing code that you can share with us and are proud of, these exe
 
 If you are doing an exercise, you can pick any of the ones below. You should plan on spending 30–120 minutes on the exercise.
 
+### Server (Full-Stack)
+
+#### Simple Database
+
+We really like [Thumbtack’s Simple Database Challenge][sdb]. We couldn’t put it better than they did, so just follow their instructions and send us a link to your repository.
+
+[sdb]: https://www.thumbtack.com/challenges/simple-database
+
+Please include a README that explains how to execute your code and some of your thought process. 
+
+### Acknowledgements
+
+In addition to Thumbtack, we have taken a decent helping of inspiration from [Uber’s coding challenge][uber].
+
+[uber]: https://github.com/uber/coding-challenge-tools
+
+
 ### Client (Front-end)
 
 #### Search
@@ -34,17 +51,3 @@ The project should be a single page app with a single `index.html` that loads an
 
 Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
 
-
-### Server (Back-end)
-
-#### Simple Database
-
-We really like [Thumbtack’s Simple Database Challenge][sdb]. We couldn’t put it better than they did, so just follow their instructions and send us a link to your repository.
-
-[sdb]: https://www.thumbtack.com/challenges/simple-database
-
-### Acknowledgements
-
-In addition to Thumbtack, we have taken a decent helping of inspiration from [Uber’s coding challenge][uber].
-
-[uber]: https://github.com/uber/coding-challenge-tools
