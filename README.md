@@ -35,7 +35,7 @@ We’ll be looking for clean, well-structured code and a polished user interface
 
 ##### Android
 
-Use Java with standard Android XML layouts. You can use any libraries and tools you like, but be prepared to explain why.
+Use Java with standard Android XML layouts. You can use any libraries and tools you like, but please include a README that explains your approach and why specific technologies were used.
 
 Send us the APK file and a link to your code repo.
 
