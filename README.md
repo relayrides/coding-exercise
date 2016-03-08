@@ -35,9 +35,9 @@ We’ll be looking for clean, well-structured code and a polished user interface
 
 ##### Android
 
-Use Java with standard Android XML layouts. You can use any libraries and tools you like. Volley and Glide are not required but recommended. 
+Use Java with standard Android XML layouts. You can use any libraries and tools you like, but be prepared to explain why.
 
-Send us the APK file so we can install on Android 4 or 5 and a link to your code repo. We want to see the details.
+Send us the APK file and a link to your code repo.
 
 ##### iOS
 
