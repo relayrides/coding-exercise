@@ -16,12 +16,6 @@ We really like [Thumbtack’s Simple Database Challenge][sdb]. We couldn’t put
 
 Please include a README that explains how to execute your code and some of your thought process. 
 
-### Acknowledgements
-
-In addition to Thumbtack, we have taken a decent helping of inspiration from [Uber’s coding challenge][uber].
-
-[uber]: https://github.com/uber/coding-challenge-tools
-
 
 ### Client (Front-end)
 
@@ -51,3 +45,9 @@ The project should be a single page app with a single `index.html` that loads an
 
 Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
 
+
+### Acknowledgements
+
+In addition to Thumbtack, we have taken a decent helping of inspiration from [Uber’s coding challenge][uber].
+
+[uber]: https://github.com/uber/coding-challenge-tools
