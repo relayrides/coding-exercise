@@ -14,8 +14,16 @@ We really like [Thumbtack’s Simple Database Challenge][sdb]. We couldn’t put
 
 [sdb]: https://www.thumbtack.com/challenges/simple-database
 
-Please include a README that explains how to execute your code and some of your thought process. 
+You must include a README that explains:
+1. how to execute your code 
+2. your thought process
+3. the performance characteristics of your solution
 
+##### How We Review Your Submission
+
+* **Functionality**: Does the solution satisfy all the logic requirements described above? Does it handle all edge cases properly and is it sufficiently tested?
+* **Algorithmic performance**: Does the solution satisfy both the runtime and memory usage requirements outlined above?
+* **Code style**: How readable is the code? Does it have a clear structure with abstraction and encapsulation that fit this problem? Is the solution overly-complex and over-engineered? Can you explain it?
 
 ### Client (Front-end)
 
