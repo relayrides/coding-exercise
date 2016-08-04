@@ -15,9 +15,10 @@ We really like [Thumbtack’s Simple Database Challenge][sdb]. We couldn’t put
 [sdb]: https://www.thumbtack.com/challenges/simple-database
 
 You must include a README that explains:
-1. how to execute your code 
-2. your thought process
-3. the performance characteristics of your solution
+
+1. How to execute your code 
+2. Your thought process
+3. The performance characteristics of your solution
 
 ##### How We Review Your Submission
 
