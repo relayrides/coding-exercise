@@ -4,7 +4,7 @@ If you have existing code that you can share with us and are proud of, these exe
 
 ## Turo Code Exercises
 
-If you are doing an exercise, you can pick any of the ones below. You should plan on spending 30–120 minutes on the exercise.
+If you are doing an exercise, please choose an exercise appropriate to the position for which you are applying (i.e. please don't do the iOS exercise if you're applying for an Android role). You should plan on spending 30–120 minutes on the exercise.
 
 ### Server (Full-Stack)
 
