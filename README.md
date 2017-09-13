@@ -50,9 +50,9 @@ Send us a link to the repo so we can build and run your code.
 
 ##### Web
 
-The project should be a single page app with a single `index.html` that loads any scripts and stylesheets. The choice of technologies (Angular, React, LESS, etc.) are up to you. Please choose the tools and technologies *with which you are most comfortable.* While we use React at Turo, you should *not* use React for this exercise unless it is already your framework of choice. Please include a README that explains your approach and why specific technologies were used. 
+The project should be a single-page app with a single `index.html` that loads any scripts and stylesheets. The choice of technologies (Angular, React, LESS, etc.) are up to you. Please choose the tools and technologies *with which you are most comfortable.* While we use React at Turo, you should *not* use React for this exercise unless it is already your framework of choice. Please include a README that explains your approach and why specific technologies were used.
 
-Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version.
+Send us a link to your repository, as well as a hosted (Heroku, Google App Engine, Amazon EC2, etc.) version or instructions for running your exercise locally.
 
 ### Acknowledgements
 
